@@ -11,3 +11,5 @@ For this we use two frameworks:
 2. Framework of Creativity: Using four metrics of creativity (Novelty, Complexity, Diversity and Entropy/Surprisal, we evaluate the content, theme and writing style of synthetic personas.
 
 The code in this project depicts the quantification of the above frameworks to audit these personas. 
+
+We have also provided some model reponses from GPT4o as well as Gemini, used in our analysis. 
